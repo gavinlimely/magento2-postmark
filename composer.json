@@ -1,5 +1,5 @@
 {
-    "name": "ripenecommerce/magento2-postmark",
+    "name": "gavinlimely/magento2-postmark",
     "description": "Postmark for Magento 2",
     "type": "magento2-module",
     "authors": [
